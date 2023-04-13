@@ -1,1 +1,1 @@
-# codecademyGameProj.github.io
+# simpleProj.github.io
